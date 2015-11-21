@@ -1,7 +1,7 @@
 module Jasmine
   module Sinon
     module Rails
-      VERSION = "1.3.4"
+      VERSION = "2.3.4"
     end
   end
 end
